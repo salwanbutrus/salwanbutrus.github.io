@@ -4,6 +4,7 @@
 
 layout: default
 title: Teaching/Outreach
+permalink: /teaching_outreach/
 
 ---
 # **Teaching & Outreach**
