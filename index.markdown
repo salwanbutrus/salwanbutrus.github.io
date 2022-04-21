@@ -10,7 +10,7 @@ title: Homepage
 
 **Salwan Butrus**
 
-**Ph.D.** Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology (2019-Present)
+**Ph.D.** NSF Graduate Research Fellow in Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology (2019-Present)
 
 **B.S.E.** Chemical Engineering (2019)
 
