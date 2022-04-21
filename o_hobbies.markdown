@@ -13,3 +13,6 @@ permalink: /hobbies/
 <p align="center">
   <img src="/images/FrisbeeF19.jpg" alt="animated" />
 </p>
+
+
+here's a video of me freaking out at the sight of racing cars
