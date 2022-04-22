@@ -10,9 +10,9 @@ title: Homepage
 
 **Salwan Butrus**
 
-**Ph.D.** UC Berkeley: NSF Graduate Research Fellow in Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology (2019-Present)
+**Ph.D.** (2019-Present) UC Berkeley: NSF Graduate Research Fellow in Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology 
 
-**B.S.E.** University of Michigan-Ann Arbor: Chemical Engineering (2019)
+**B.S.E.** (2019) University of Michigan-Ann Arbor: Chemical Engineering
 
 [Twitter](https://twitter.com/salwan_butrus)<br>
 [Google Scholar](https://scholar.google.com/citations?user=KeJps5YAAAAJ&hl=en)<br>
