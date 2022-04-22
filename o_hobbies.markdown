@@ -8,11 +8,31 @@ permalink: /hobbies/
 
 ---
 
-**Pics of sports teams and skiing/camping/hiking trips**
+# **Hobbies**
 
-<p align="center">
-  <img src="/images/FrisbeeF19.jpg" alt="animated" />
-</p>
+When I'm not working, you'll find me either playing or watching sports. Here's a selection of some of the teams I've had the pleasure of being on during graduate school. 
+
+<img src="/images/FrisbeeF19.jpg" style="float:left;padding-right:25px;width:100%;height:auto;">
+<figcaption align = "center"><b>CBE Ultimate Frisbee IM Team 2019</b></figcaption>
+
+<br>
+
+<img src="/images/Wunderkids.JPG" style="float:left;padding-right:25px;width:100%;height:auto;">
+<figcaption align = "center"><b>BAASL Wunderkids 2022</b></figcaption>
 
 
-here's a video of me freaking out at the sight of racing cars
+<br>
+Over the last year I've gotten into camping/hiking and caught a major case of the skiing bug. 
+
+
+<img src="/images/IMG_0131.jpeg" style="float:left;padding-right:25px;width:100%;height:auto;">
+<figcaption align = "center"><b>Mammoth Mountain Jan 2022</b></figcaption>
+
+
+<img src="/images/IMG_1984.jpeg" style="float:left;padding-right:25px;width:100%;height:auto;">
+
+<figcaption align = "center"><b>El Cap in Yosemite Aug 2021</b></figcaption>
+
+caption:here's me at yosemite
+
+My favorite sport to watch is by far Formula 1. I haven't gone to a live race yet, but here's a video of me freaking out at the sight of racing cars for the first time at Laguna Seca Raceway in May 2021. 

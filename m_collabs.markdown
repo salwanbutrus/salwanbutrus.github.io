@@ -13,13 +13,15 @@ permalink: /collaborators/
 During my PhD, I have had the fortune of working alongside colleagues who cover a wide range of expertise, including neurobiology, medicine, computational biology, and genomics.
 
 **UC Berkeley**<br>
+Prof. Karthik Shekhar (PhD advisor)<br>
 Prof. Dan Feldman<br>
 Dr. Hannah Monday<br>
 Prof. Iain Clark<br>
 
-Jason Hou (Current undergraduate mentee, Junior in Chemical and Biomolecular Engineering)<br>
-Srikant Sagireddy (Former undergraduate mentee, now at Stanford Chemical Engineering PhD)<br>
-Xiaoqi Sun (Former undergraduate mentee, now at MIT Chemical Engineering PhD)<br>
+_Undergraduate Mentees_<br>
+Jason Hou (Junior in Chemical and Biomolecular Engineering)<br>
+Srikant Sagireddy (now at Stanford Chemical Engineering PhD)<br>
+Xiaoqi Sun (now at MIT Chemical Engineering PhD)<br>
 
 **UCLA**<br>
 Prof. Larry Zipursky<br>
