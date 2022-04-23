@@ -9,14 +9,14 @@ permalink: /hobbies/
 ---
 # **Hobbies**
 
-When I'm not working, you'll find me either playing or watching sports. Here's a selection of some of the teams I've had the pleasure of being on during graduate school. 
+When I'm not working, you'll find me either playing or watching sports. Here's a selection of some of the teams I've had the pleasure of being on during graduate school. Not pictured are our CBE basketball and soccer teams. 
 
 <img src="/images/FrisbeeF19.jpg" style="float:center;width:100%;height:auto;">
-<figcaption align = "center"><b>CBE Ultimate Frisbee IM Team 2019</b></figcaption>
+<figcaption align = "center"><b>CBE Ultimate Frisbee IM Team 2019-Present</b></figcaption>
 <br>
 
 <img src="/images/Wunderkids.JPG" style="float:center;width:100%;height:auto;">
-<figcaption align = "center"><b>BAASL Wunderkids 2022</b></figcaption>
+<figcaption align = "center"><b>BAASL Wunderkids 2022-Present</b></figcaption>
 
 
 <br>

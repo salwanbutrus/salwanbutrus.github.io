@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Teaching/Outreach
+title: Teaching & Outreach
 permalink: /teaching_outreach/
 
 ---
@@ -24,17 +24,13 @@ $15,000 departmental grant—that introduced experimental and computational rese
 <img src="/images/CEE_Figure.png" style="float:center;width:100%;height:auto;">
 **Strategy for developing a research-based course and introducing it to an undergraduate curriculum**
 
-
-In another example of research providing me with a platform to support my community, I gathered a group of my peers to create our University’s first campus-wide, undergraduate research symposium. We raised funds from 16 entities totaling $12,000 of support, accommodated 250 presenters and evaluators, provided students with an opportunity to practice communicating their research, and provided travel awards to support students’ attendance of larger conferences. 
+In another example of research providing me with a platform to support my community, I gathered a group of my peers to create our University’s first campus-wide, undergraduate research symposium. We raised funds from 16 entities totaling $12,000 of support, accommodated 250 presenters and evaluators, provided students with an opportunity to practice communicating their research, and provided travel awards to support students’ attendance of larger conferences. We crafted a comprehensive [report](/files/URS2019ExitReport.pdf) of our efforts that served as a template for future iterations of the event. 
 
 What's most gratifying is that the [symposium](http://websites.umich.edu/~ursymposium/index.html) has continued to provide research communication opportunities to undegraduates for the last few years, and I can't wait to see how it evolves over the coming years thanks to the tireless efforts of its organizers.
 
-
-[picture and link to report]
-
+<img src="/images/urs.png" style="float:center;width:100%;height:auto;">
 
 
 ## **UC Berkeley**
 
-At Berkeley, I have mentored three undergraduate researchers. One is currently enrolled in Stanford’s Chemical Engineering PhD program, one will be starting MIT’s PhD program next fall, and the other is a Junior at UC Berkeley. I also contribute to science mentorship beyond the UC Berkeley campus through the Be A Scientist! program that supports local middle school students on guided science projects. Continuing these efforts is important to my journey and growth because they provide me with an avenue to use my privileged position as a tool to uplift those who are not as fortunate as I am.
-
+At Berkeley, I have mentored three undergraduate researchers. One is currently enrolled in Stanford’s Chemical Engineering PhD program, one will be starting MIT’s PhD program next fall, and the other is a Junior at UC Berkeley. I also contribute to science mentorship beyond the UC Berkeley campus through the Be A Scientist! program that supports local middle school students on guided science projects. Continuing these efforts is important to my journey and growth because they provide me with an avenue to take full advantage of my privileged position.
