@@ -18,7 +18,7 @@ Throughout my journey from Iraq to Jordan to the US, I witnessed a lack of educa
 My teaching experiences convinced me that my contributions as a researcher should extend beyond the laboratory. As and undergraduate at the University of Michigan, I led a group of my peers in designing a research-based course—supported by a
 $15,000 departmental grant—that introduced experimental and computational research topics and skills to students who attended underprivileged high schools that did not have research opportunities. We documented the construction and operation of the course in a publication to facilitate its adoption by other schools.
 
-**Butrus, S**., Greenman, K., Kopyeva, I., Khera, Eshita., Nishii, A. <ins>An Undergraduate-Led, Research- Based Course that Complements a Traditional Chemical Engineering Curriculum</ins>. _Chemical Engineering Education_ (2020) 54, 2; pp. 97-106. [PDF](/files/butrus-final-hyperlinks.pdf)
+* **Butrus, S**., Greenman, K., Kopyeva, I., Khera, Eshita., Nishii, A. <ins>An Undergraduate-Led, Research- Based Course that Complements a Traditional Chemical Engineering Curriculum</ins>. _Chemical Engineering  Education_       (2020) 54, 2; pp. 97-106. [PDF](/files/butrus-final-hyperlinks.pdf)
 
 
 <img src="/images/CEE_Figure.png" style="float:center;width:100%;height:auto;">
@@ -33,4 +33,10 @@ What's most gratifying is that the [symposium](http://websites.umich.edu/~ursymp
 
 ## **UC Berkeley**
 
-At Berkeley, I have mentored three undergraduate researchers. One is currently enrolled in Stanford’s Chemical Engineering PhD program, one will be starting MIT’s PhD program next fall, and the other is a Junior at UC Berkeley. I also contribute to science mentorship beyond the UC Berkeley campus through the Be A Scientist! program that supports local middle school students on guided science projects. Continuing these efforts is important to my journey and growth because they provide me with an avenue to take full advantage of my privileged position.
+At Berkeley, I have mentored three undergraduate researchers. One is currently enrolled in Stanford’s Chemical Engineering PhD program, one will be starting MIT’s PhD program next fall, and the other is a Junior at UC Berkeley. I also contribute to science mentorship beyond the UC Berkeley campus through the [Be A Scientist! ](https://crscience.org/outreach/beascientist/) program that supports local middle school students on guided science projects along with the [Guiding Outstanding Learners to Discover](https://chemistry.berkeley.edu/gold) program, which is designed to empower students in high school and at other undergraduate institutions to further their understanding of the chemical sciences and engineering. Continuing these efforts is important to my journey and growth because they provide me with an avenue to take full advantage of my privileged position.
+
+<img src="/images/CRS-Logo-700.jpg" style="float:left;width:50%;height:auto;">
+
+<img src="/images/gold-seal2x.png" style="float:right;width:30%;height:auto;">
+
+

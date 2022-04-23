@@ -26,6 +26,8 @@ Over the last year I've gotten into camping/hiking and caught a major case of th
 <img src="/images/IMG_0131.jpeg" style="float:center;width:100%;height:auto;">
 <figcaption align = "center"><b>Mammoth Mountain Jan 2022</b></figcaption>
 
+<br>
+
 
 <img src="/images/IMG_1984__.jpeg" style="float:center;width:100%;height:auto;">
 
