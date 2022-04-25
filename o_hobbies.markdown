@@ -5,8 +5,9 @@
 layout: default
 title: Hobbies
 permalink: /hobbies/
-
+youtubeId: AZVHeO13iiQ
 ---
+
 # **Hobbies**
 
 When I'm not working, you'll find me either playing or watching sports. Here's a selection of some of the teams I've had the pleasure of being on during graduate school. Not pictured are our CBE basketball and soccer teams. 
@@ -37,4 +38,4 @@ Over the last year I've gotten into camping/hiking and caught a major case of th
 
 My favorite sport to watch is by far Formula 1. I haven't gone to a live race yet, but here's a video of me freaking out at the sight of racing cars for the first time at Laguna Seca Raceway in May 2021. 
 
-<iframe width="740" height="400" src="http://www.youtube.com/embed/AZVHeO13iiQ" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
