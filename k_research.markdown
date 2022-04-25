@@ -22,8 +22,12 @@ I began my PhD with an interest in combining molecular biology, experimental neu
 <img src="/images/GraphicalAbstract_v7.png" style="float:center;width:100%;height:auto;">
 
 
-* conf presentations
-* ref
+* \*Cheng, S., **\*Butrus, S.**, \*Tan, L., Sagireddy, S., Trachtenberg, J.T., Shekhar, K., Zipursky, L. <ins>Vision-dependent specification of cell types and function in the developing cortex</ins>. _Cell_ (2022) 185, 2: pp. 311-327.
+    * Highlighted in [_Nature_](https://www.nature.com/articles/d41586-022-00463-2) by Puiggros and Jabaudon (2022).
+    * Highlighted in [_UC Berkeley, College of Chemistry Press Release_](https://chemistry.berkeley.edu/news/research-shines-light-development-visual-cortex-during-critical-period-after-birth) (2022).
+    * Highlighted in [_EurekAlert_](https://www.eurekalert.org/news-releases/941779) (2022).
+* **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _Society for Neuroscience Meeting_ (2021). 
+* **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _UC Berkeley Center for Computational Biology Retreat_ (2021). 
 
 ### **III. Python package for studying neuroprotection and axon regeneration using single-cell RNA sequencing**
 
