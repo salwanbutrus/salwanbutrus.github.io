@@ -11,7 +11,6 @@ The development and connectivity of retinal ganglion cells (RGCs), the retina’
 
 <img src="/images/RGC_VD.png" style="float:center;width:100%;height:auto;">
 
-
 * \*Whitney, I., **\*Butrus, S.**, Sanes, J.R., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _Under review at European Journal of Neuroscience._
 
 
