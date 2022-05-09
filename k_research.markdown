@@ -11,6 +11,7 @@ The development and connectivity of retinal ganglion cells (RGCs), the retina’
 
 <img src="/images/RGC_VD.png" style="float:center;width:100%;height:auto;">
 
+**\***=Equal contribution
 * \*Whitney, I., **\*Butrus, S.**, Sanes, J.R., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _Under review at European Journal of Neuroscience._
 
 
@@ -20,7 +21,7 @@ I began my PhD with an interest in combining molecular biology, experimental neu
 
 <img src="/images/GraphicalAbstract_v7.png" style="float:center;width:100%;height:auto;">
 
-
+**\***=Equal contribution
 * \*Cheng, S., **\*Butrus, S.**, \*Tan, L., Sagireddy, S., Trachtenberg, J.T., Shekhar, K., Zipursky, L. <ins>Vision-dependent specification of cell types and function in the developing cortex</ins>. _Cell_ (2022) 185, 2: pp. 311-327.
     * Highlighted in [_Nature_](https://www.nature.com/articles/d41586-022-00463-2) by Puiggros and Jabaudon (2022).
     * Highlighted in [_UC Berkeley, College of Chemistry Press Release_](https://chemistry.berkeley.edu/news/research-shines-light-development-visual-cortex-during-critical-period-after-birth) (2022).
