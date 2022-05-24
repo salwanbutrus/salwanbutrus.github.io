@@ -9,7 +9,7 @@ permalink: /teaching_outreach/
 ---
 # **Teaching**
 
-Throughout my journey from Iraq to Jordan to the US, I witnessed a lack of education plague my family’s aspirations to succeed ever since we escaped our home country. Consequently, education and mentorship are two major ways by which I hope to make an impact. At the University of Michigan and UC Berkeley, I have taught five courses and >300 students across three science and engineering disciplines. I've also been involved in Berkeley's [Bioinformatics Bootcamp](https://ccb.berkeley.edu/outreach/workshops-bootcamps/) and [InspiritAI](https://www.inspiritai.com/), which is an effort to teach machine learning to high school students across the world. Check out my [CV](/files/ButrusSalwanCVApril2022.pdf) for details about my teaching experiences and testimonials from my students. 
+Throughout my journey from Iraq to Jordan to the US, I witnessed a lack of education plague my family’s aspirations to succeed ever since we escaped our home country. Consequently, education and mentorship are two major ways by which I hope to make an impact. At the University of Michigan and UC Berkeley, I have taught five courses and >300 students across three science and engineering disciplines. I've also been involved in Berkeley's [Bioinformatics Bootcamp](https://ccb.berkeley.edu/outreach/workshops-bootcamps/) and [InspiritAI](https://www.inspiritai.com/), which is an effort to teach machine learning to high school students across the world. Check out my [CV](/files/ButrusSalwanCV.pdf) for details about my teaching experiences and testimonials from my students. 
 
 # **Outreach**
 

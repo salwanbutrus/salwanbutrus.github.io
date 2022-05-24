@@ -16,7 +16,7 @@ title: About Me
 
 [Twitter](https://twitter.com/salwan_butrus)<br>
 [Google Scholar](https://scholar.google.com/citations?user=KeJps5YAAAAJ&hl=en)<br>
-[CV](/files/ButrusSalwanCVApril2022.pdf)
+[CV](/files/ButrusSalwanCV.pdf)
 <br><br>
 Hey there, welcome to my personal website! I'm a PhD Candidate at UC Berkeley in [Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) and the [Center for Computational Biology](https://ccb.berkeley.edu/). I apply machine learning to high-dimensional genomics datasets to study brain development in Karthik Shekhar's [group](https://www.shekharlab.net/). I'm passionate about education, mentorship, interdisciplinary research, and sports. Click around to see what I've been up to at work and beyond.   
 
