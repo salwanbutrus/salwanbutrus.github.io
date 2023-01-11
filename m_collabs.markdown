@@ -29,6 +29,7 @@ Prof. Joshua Trachtenberg<br>
 Dr. Sarah Cheng<br>
 Dr. Liming Tan<br>
 Dr. Saumya Jain<br>
+Juyoun Yoo<br>
 
 **Harvard**<br>
 Prof. Joshua Sanes

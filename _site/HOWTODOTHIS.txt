@@ -1,0 +1,5 @@
+STEPS:
+
+1) navigate to this directory on your Mac
+2) run "bundle exec jekyll serve --watch"
+3) make changes in files on Mac and check updates at "http://127.0.0.1:4000" or whatever the link is that day
