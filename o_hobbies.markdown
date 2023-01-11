@@ -21,7 +21,7 @@ When I'm not working, you'll find me either playing or watching sports. Here's a
 
 
 <br>
-Grad school has exposed an outdoorsy side of me that I didn't know existed. You can follow my adventures on [Strava](https://www.strava.com/athletes/101349112).
+Grad school has unearthed an outdoorsy side of me that I didn't know existed. You can follow my adventures on [Strava](https://www.strava.com/athletes/101349112).
 
 <img src="/images/GP_bike.jpeg" style="float:center;width:100%;height:auto;">
 <figcaption align = "center"><b>Grizzly Peak 2022</b></figcaption>
