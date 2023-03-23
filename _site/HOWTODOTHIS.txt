@@ -3,3 +3,7 @@ STEPS:
 1) navigate to this directory on your Mac
 2) run "bundle exec jekyll serve --watch"
 3) make changes in files on Mac and check updates at "http://127.0.0.1:4000" or whatever the link is that day
+4) then open terminal in this directory and run "git status" to see what you've changed
+5) then run "git add ."
+6) then run "git commit -m 'msg...'"
+7) then run "git push -u origin main" and do this https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8

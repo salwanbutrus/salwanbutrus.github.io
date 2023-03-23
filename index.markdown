@@ -6,11 +6,15 @@ layout: default
 title: About Me
 
 ---
-<img src="/images/IMG_1149.jpg" alt="Headshot" style="float:left;padding-right:25px;width:250px;height:auto;">
+<img src="/images/IMG_1149.jpg" alt="Headshot" style="float:left;padding-right:25px;width:350px;height:auto;">
 
 **Salwan Butrus**
 
-**Ph.D.** (2019-Present) UC Berkeley: NSF Graduate Research Fellow in Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology 
+**Ph.D.** (2019-Present) UC Berkeley: Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology 
+
+_NIH Ruth L. Kirschstein NRSA Predoctoral Fellow (F31) (2023-Present)_
+
+_NSF Graduate Research Fellow (2019-2022)_
 
 **B.S.E.** (2019) University of Michigan-Ann Arbor: Chemical Engineering
 

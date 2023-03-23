@@ -19,7 +19,7 @@ Dr. Hannah Monday<br>
 Prof. Iain Clark<br>
 
 _Undergraduate Mentees_<br>
-Jason Hou (Junior in Chemical and Biomolecular Engineering)<br>
+Jason Hou (Senior in Chemical and Biomolecular Engineering)<br>
 Srikant Sagireddy (now at Stanford Chemical Engineering PhD)<br>
 Xiaoqi Sun (now at MIT Chemical Engineering PhD)<br>
 
@@ -29,7 +29,7 @@ Prof. Joshua Trachtenberg<br>
 Dr. Sarah Cheng<br>
 Dr. Liming Tan<br>
 Dr. Saumya Jain<br>
-Juyoun Yoo<br>
+Dr. Juyoun Yoo<br>
 
 **Harvard**<br>
 Prof. Joshua Sanes
