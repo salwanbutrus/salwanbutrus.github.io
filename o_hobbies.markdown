@@ -23,8 +23,8 @@ When I'm not working, you'll find me either playing or watching sports. Here's a
 <br>
 Grad school has unearthed an outdoorsy side of me that I didn't know existed. You can follow my adventures on [Strava](https://www.strava.com/athletes/101349112).
 
-<img src="/images/GP_bike.jpeg" style="float:center;width:100%;height:auto;">
-<figcaption align = "center"><b>Grizzly Peak 2022</b></figcaption>
+<img src="/images/Crit2.JPG" style="float:center;width:100%;height:auto;">
+<figcaption align = "center"><b>My first bike race in April 2024</b></figcaption>
 <br>
 
 <img src="/images/IMG_0131.jpeg" style="float:center;width:100%;height:auto;">
