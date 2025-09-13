@@ -5,7 +5,19 @@ permalink: /research/
 ---
 # **Graduate Research**
 
-### **I. Deciphering the molecular maturation of mouse retinal ganglion cells**
+
+### **I. Molecular dissection of cell type development and plasticity in whisker cortex**
+
+Mouse whisker somatosensory cortex (wS1) is a major model system to study the experience-dependent plasticity of cortical neuron physiology, morphology, and sensory coding. However, the role of sensory experience in regulating neuronal cell type development and gene expression in wS1 remains poorly understood. We assembled a transcriptomic atlas of wS1 during postnatal development comprising 45 molecularly distinct neuronal types that can be grouped into eight excitatory and four inhibitory neuron subclasses. Between postnatal day (P) 12, the onset of active whisking, and P22, when classical critical periods close, ~ 250 genes were regulated in a neuronal subclass-specific fashion when whisker experience was normal. At the resolution of neuronal types, only the composition of layer (L) 2/3 glutamatergic neurons, but not other neuronal types, changed substantially between P12 and P22. These postnatal compositional changes in L2/3 neuronal types resemble those observed previously in the primary visual cortex (V1), and the temporal gene expression changes were also highly conserved between the regions. Unlike V1, however, cell type maturation in wS1 is not substantially dependent on sensory experience, as 10-day full-face whisker deprivation from P12 to P22 did not influence the transcriptomic identity nor composition of L2/3 neuronal types. A one-day competitive whisker deprivation protocol from P21 to P22 also did not affect cell type identity but induced moderate changes in plasticity-related gene expression. Thus, developmental maturation of cell types is similar in V1 and wS1, but sensory deprivation minimally affects cell type development in wS1.
+
+
+<img src="/images/wS1.png" style="float:center;width:100%;height:auto;">
+
+**\***=Equal contribution
+* **\*Butrus, S.**,  \*Monday, H., Yoo, C.J., Feldman, D.E., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _European Journal of Neuroscience_ (2023). _In press_.
+
+
+### **II. Deciphering the molecular maturation of mouse retinal ganglion cells**
 
 The development and connectivity of retinal ganglion cells (RGCs), the retina’s sole output neurons, are patterned by activity-independent transcriptional programs and activity-dependent remodeling. To inventory the molecular correlates of these influences, I applied high throughput single-cell RNA sequencing (scRNA-seq) to mouse RGCs at six embryonic and postnatal ages. I identified temporally regulated modules of genes that correlate with key phases of RGC development, ranging from differentiation and axon guidance to synaptic recognition and refinement. Next, I used these results as a foundation to analyze the transcriptomes of RGCs in mice lacking visual experience due either to dark rearing from birth or to genetic mutations that ablate bipolar or photoreceptor cells. 98.5% of visually deprived (VD) RGCs could be unequivocally assigned to a single RGC type based on their transcriptional profiles, suggesting that visual activity is dispensable for diversification of multipotential precursors into discrete types. However, visual deprivation significantly reduced the transcriptomic distinctions between RGCs, implying that activity influences RGC maturation or maintenance. These results provide a resource for mechanistic analyses of RGC differentiation and maturation, and for investigating the role of activity in these processes.
 
@@ -15,7 +27,7 @@ The development and connectivity of retinal ganglion cells (RGCs), the retina’
 * \*Whitney, I., **\*Butrus, S.**, Sanes, J.R., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _European Journal of Neuroscience_ (2023). _In press_.
 
 
-### **II. Characterization of visual cortex plasticity at cell type resolution**
+### **III. Characterization of visual cortex plasticity at cell type resolution**
 
 I began my PhD with an interest in combining molecular biology, experimental neuroscience, and machine learning to study visual cortex development at the resolution of its hundreds of cell types. I led a collaboration between our group and Profs. Larry Zipursky and Josh Trachtenberg’s groups at UCLA to study the development of visual cortex cell types as a function of sensory input. The role of postnatal experience in sculpting cortical circuitry, while long appreciated, is poorly understood at the level of cell types. We combined single-nucleus (sn) transcriptomics, statistical inference, sensory perturbations, genetics, and in vivo functional imaging to assemble a developmental transcriptomic atlas of postnatal mouse V1. Using this as a foundation, we discovered that: (1) vision is required for the establishment and maintenance of L2/3 glutamatergic types, but not other cell types in V1; (2) L2/3 glutamatergic cell types are organized as sublayers in V1 and form a transcriptomic continuum through the graded expression of ~200 genes; and (3) among these genes, Igsf9b, a vision-regulated cell adhesion molecule, is required in a graded fashion for the functional maturation of L2/3 glutamatergic neurons. In addition to challenging the prevailing hypothesis that genetically-hardwired mechanisms establish a static blueprint of cell types, our study establishes a framework for future investigations of how experience regulates neuronal organization in the brain.
 
@@ -29,7 +41,7 @@ I began my PhD with an interest in combining molecular biology, experimental neu
 * **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _Society for Neuroscience Meeting_ (2021). 
 * **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _UC Berkeley Center for Computational Biology Retreat_ (2021). 
 
-### **III. Python package for studying neuroprotection and axon regeneration using single-cell RNA sequencing**
+### **IV. Python package for studying neuroprotection and axon regeneration using single-cell RNA sequencing**
 
 A major hallmark of the mammalian central nervous system is that certain populations of neurons exhibit far greater vulnerability to insults than others. The mechanisms underlying this selective neuronal vulnerability in the context of acute (e.g. traumatic injury) or chronic (e.g. neurodegenerative) disease have been difficult to dissect, but recent advances in single-cell RNA-seq (scRNA-seq) make it possible to compare patterns of gene expression among neuronal types that differ in vulnerability. As a postdoctoral fellow, my advisor Prof. Karthik Shekhar explored this strategy in the context of axotomy by analyzing the responses of mouse retinal ganglion cells (RGCs) to optic nerve crush (ONC), a well-studied model of traumatic injury. RGCs are a diverse class of projection neurons, with their diversity in mice comprising >40 discrete types, each with distinct morphological, physiological and molecular features. Using high-throughput scRNA-seq, he derived an atlas of 46 molecularly distinct RGC types. Following ONC, he found that ~85% of RGCs die within two weeks, and those that survive do not regenerate axons. To determine if specific types are lost at the same or different rates, he profiled RGCs using scRNA-seq from injured retinas at 0, 0.5, 1, 2, 4, 7, and 14 days post crush (dpc) and found cell type-specific axonal injury and regeneration patterns.
 
