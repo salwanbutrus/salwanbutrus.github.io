@@ -6,7 +6,17 @@ permalink: /research/
 # **Graduate Research**
 
 
-### **I. Molecular dissection of cell type development and plasticity in whisker cortex**
+### **Single-cell multi-omic analysis of cell type development in mouse visual cortex**
+
+
+<img src="/images/GRC2024_poster_v3.png" style="float:center;width:100%;height:auto;">
+
+
+**\***=Equal contribution
+* \*Yoo, J.; \*Xie, F.; **\*Butrus, S.**; Xu, R.; Tan, Z.; Gorzek, R.; Mirshahidi, P.; Tring, E.; Suresh, S.; Kim, J.; Fleishman, G.; Tan, L.; Ringach, D.; Trachtenberg, J.; Xu, X.; Zipursky, S. L.; Shekhar, K.; Jain, X.. <ins>Establishing a continuum of cell types in the visual cortex</ins>. _biorXiv_ (2025) [https://doi.org/10.1101/2025.09.22.677893](https://doi.org/10.1101/2025.09.22.677893).
+
+
+### **Molecular dissection of cell type development and plasticity in whisker cortex**
 
 Mouse whisker somatosensory cortex (wS1) is a major model system to study the experience-dependent plasticity of cortical neuron physiology, morphology, and sensory coding. However, the role of sensory experience in regulating neuronal cell type development and gene expression in wS1 remains poorly understood. We assembled a transcriptomic atlas of wS1 during postnatal development comprising 45 molecularly distinct neuronal types that can be grouped into eight excitatory and four inhibitory neuron subclasses. Between postnatal day (P) 12, the onset of active whisking, and P22, when classical critical periods close, ~ 250 genes were regulated in a neuronal subclass-specific fashion when whisker experience was normal. At the resolution of neuronal types, only the composition of layer (L) 2/3 glutamatergic neurons, but not other neuronal types, changed substantially between P12 and P22. These postnatal compositional changes in L2/3 neuronal types resemble those observed previously in the primary visual cortex (V1), and the temporal gene expression changes were also highly conserved between the regions. Unlike V1, however, cell type maturation in wS1 is not substantially dependent on sensory experience, as 10-day full-face whisker deprivation from P12 to P22 did not influence the transcriptomic identity nor composition of L2/3 neuronal types. A one-day competitive whisker deprivation protocol from P21 to P22 also did not affect cell type identity but induced moderate changes in plasticity-related gene expression. Thus, developmental maturation of cell types is similar in V1 and wS1, but sensory deprivation minimally affects cell type development in wS1.
 
@@ -14,34 +24,34 @@ Mouse whisker somatosensory cortex (wS1) is a major model system to study the ex
 <img src="/images/wS1.png" style="float:center;width:100%;height:auto;">
 
 **\***=Equal contribution
-* **\*Butrus, S.**,  \*Monday, H., Yoo, C.J., Feldman, D.E., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _European Journal of Neuroscience_ (2023). _In press_.
+* **\*Butrus, S.**,  \*Monday, H., Yoo, C.J., Feldman, D.E., Shekhar, K. <ins>Molecular states underlying neuronal cell type development and plasticity in the postnatal whisker cortex</ins>. _PLoS biology_ (2025) [https://doi.org/10.1371/journal.pbio.3003176](https://doi.org/10.1371/journal.pbio.3003176).
 
 
-### **II. Deciphering the molecular maturation of mouse retinal ganglion cells**
+### **Deciphering the molecular maturation of mouse retinal ganglion cells**
 
 The development and connectivity of retinal ganglion cells (RGCs), the retina’s sole output neurons, are patterned by activity-independent transcriptional programs and activity-dependent remodeling. To inventory the molecular correlates of these influences, I applied high throughput single-cell RNA sequencing (scRNA-seq) to mouse RGCs at six embryonic and postnatal ages. I identified temporally regulated modules of genes that correlate with key phases of RGC development, ranging from differentiation and axon guidance to synaptic recognition and refinement. Next, I used these results as a foundation to analyze the transcriptomes of RGCs in mice lacking visual experience due either to dark rearing from birth or to genetic mutations that ablate bipolar or photoreceptor cells. 98.5% of visually deprived (VD) RGCs could be unequivocally assigned to a single RGC type based on their transcriptional profiles, suggesting that visual activity is dispensable for diversification of multipotential precursors into discrete types. However, visual deprivation significantly reduced the transcriptomic distinctions between RGCs, implying that activity influences RGC maturation or maintenance. These results provide a resource for mechanistic analyses of RGC differentiation and maturation, and for investigating the role of activity in these processes.
 
 <img src="/images/RGC_VD.png" style="float:center;width:100%;height:auto;">
 
 **\***=Equal contribution
-* \*Whitney, I., **\*Butrus, S.**, Sanes, J.R., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _European Journal of Neuroscience_ (2023). _In press_.
+* \*Whitney, I., **\*Butrus, S.**, Sanes, J.R., Shekhar, K. <ins>Vision-dependent and -independent molecular maturation of mouse retinal ganglion cells</ins>. _European Journal of Neuroscience_ (2022) [https://doi.org/10.1016/j.neuroscience.2022.07.013](https://doi.org/10.1016/j.neuroscience.2022.07.013).
 
 
-### **III. Characterization of visual cortex plasticity at cell type resolution**
+### **Characterization of visual cortex plasticity at cell type resolution**
 
 I began my PhD with an interest in combining molecular biology, experimental neuroscience, and machine learning to study visual cortex development at the resolution of its hundreds of cell types. I led a collaboration between our group and Profs. Larry Zipursky and Josh Trachtenberg’s groups at UCLA to study the development of visual cortex cell types as a function of sensory input. The role of postnatal experience in sculpting cortical circuitry, while long appreciated, is poorly understood at the level of cell types. We combined single-nucleus (sn) transcriptomics, statistical inference, sensory perturbations, genetics, and in vivo functional imaging to assemble a developmental transcriptomic atlas of postnatal mouse V1. Using this as a foundation, we discovered that: (1) vision is required for the establishment and maintenance of L2/3 glutamatergic types, but not other cell types in V1; (2) L2/3 glutamatergic cell types are organized as sublayers in V1 and form a transcriptomic continuum through the graded expression of ~200 genes; and (3) among these genes, Igsf9b, a vision-regulated cell adhesion molecule, is required in a graded fashion for the functional maturation of L2/3 glutamatergic neurons. In addition to challenging the prevailing hypothesis that genetically-hardwired mechanisms establish a static blueprint of cell types, our study establishes a framework for future investigations of how experience regulates neuronal organization in the brain.
 
 <img src="/images/GraphicalAbstract_v7.png" style="float:center;width:100%;height:auto;">
 
 **\***=Equal contribution
-* \*Cheng, S., **\*Butrus, S.**, \*Tan, L., Sagireddy, S., Trachtenberg, J.T., Shekhar, K., Zipursky, L. <ins>Vision-dependent specification of cell types and function in the developing cortex</ins>. _Cell_ (2022) 185, 2: pp. 311-327.
+* \*Cheng, S., **\*Butrus, S.**, \*Tan, L., Sagireddy, S., Trachtenberg, J.T., Shekhar, K., Zipursky, L. <ins>Vision-dependent specification of cell types and function in the developing cortex</ins>. _Cell_ (2022) 185, 2: pp. 311-327. [https://doi.org/10.1016/j.cell.2021.12.022](https://doi.org/10.1016/j.cell.2021.12.022).
     * Highlighted in [_Nature_](https://www.nature.com/articles/d41586-022-00463-2) by Puiggros and Jabaudon (2022).
     * Highlighted in [_UC Berkeley, College of Chemistry Press Release_](https://chemistry.berkeley.edu/news/research-shines-light-development-visual-cortex-during-critical-period-after-birth) (2022).
     * Highlighted in [_EurekAlert_](https://www.eurekalert.org/news-releases/941779) (2022).
 * **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _Society for Neuroscience Meeting_ (2021). 
 * **Butrus, S.**, Shekhar, K. <ins>Vision mediates molecular patterning in the developing visual cortex.</ins> _UC Berkeley Center for Computational Biology Retreat_ (2021). 
 
-### **IV. Python package for studying neuroprotection and axon regeneration using single-cell RNA sequencing**
+### **Python package for studying neuroprotection and axon regeneration using single-cell RNA sequencing**
 
 A major hallmark of the mammalian central nervous system is that certain populations of neurons exhibit far greater vulnerability to insults than others. The mechanisms underlying this selective neuronal vulnerability in the context of acute (e.g. traumatic injury) or chronic (e.g. neurodegenerative) disease have been difficult to dissect, but recent advances in single-cell RNA-seq (scRNA-seq) make it possible to compare patterns of gene expression among neuronal types that differ in vulnerability. As a postdoctoral fellow, my advisor Prof. Karthik Shekhar explored this strategy in the context of axotomy by analyzing the responses of mouse retinal ganglion cells (RGCs) to optic nerve crush (ONC), a well-studied model of traumatic injury. RGCs are a diverse class of projection neurons, with their diversity in mice comprising >40 discrete types, each with distinct morphological, physiological and molecular features. Using high-throughput scRNA-seq, he derived an atlas of 46 molecularly distinct RGC types. Following ONC, he found that ~85% of RGCs die within two weeks, and those that survive do not regenerate axons. To determine if specific types are lost at the same or different rates, he profiled RGCs using scRNA-seq from injured retinas at 0, 0.5, 1, 2, 4, 7, and 14 days post crush (dpc) and found cell type-specific axonal injury and regeneration patterns.
 
@@ -50,12 +60,12 @@ A major hallmark of the mammalian central nervous system is that certain populat
 
 To generalize the computational methods used in this project to any study of neuronal vulnerability and make them accessible to researchers without an extensive background in machine learning, my colleague and I developed a [code base](https://github.com/shekharlab/mimb_onc_rgc) in the programming language Python and wrote a step-by-step protocol describing its implementation. I described the computational framework used to analyze transcriptomic profiles of injured RGCs over the aforementioned time course, aiming to assess type-specific differences in survival, and identify gene signatures that correlate with, and may underlie, these differences. Following injury, extensive gene expression changes in RGCs make the inference of type identity challenging. To address this, I used an iterative supervised classification approach that leverages data from RGCs collected at the intermediate time points. In this approach, transcriptomic signatures of RGC types are successively redefined at each time to map the cells at the next time point. The underlying method, called iterative-GraphBoost (iGraphBoost), combines a two-step procedure involving gradient boosted trees (Step 1) and a graph-based voting scheme (Step 2). This dramatically increases cell type mapping efficiency at later time points and allows us to deconvolve gradual injury-related “state” changes from intrinsic type-specific gene expression programs.
 
-* **Butrus, S.**, Sagireddy, S., Shekhar, K. <ins>Defining selective neuronal resilience and identifying targets of neuroprotection and axon regeneration using single-cell RNA sequencing – computational approaches</ins>. _Methods in Molecular Biology_ (2023). _In press_.
+* **Butrus, S.**, Sagireddy, S., Shekhar, K. <ins>Defining selective neuronal resilience and identifying targets of neuroprotection and axon regeneration using single-cell RNA sequencing – computational approaches</ins>. _Methods in Molecular Biology_ (2023). [https://doi.org/10.1007/978-1-0716-3012-9_2](https://doi.org/10.1007/978-1-0716-3012-9_2).
 
 
 # **Undergraduate Research**
 
-### **I. Development and characterization of gold nanoparticles for plant genetic engineering**
+### **Development and characterization of gold nanoparticles for plant genetic engineering**
 
 Plant genetic engineering is poised to strengthen the agricultural, pharmaceutical, and energy industries in the face of climate change and global population growth. However, traditional biomolecule delivery methods to plants are limited by low efficiency, narrow host range, toxicity, and limited practical applicability due to the transport challenge posed by the plant cell wall. I was intrigued by early work in using carbon nanotubes to transform mature plants in a non-toxic, passive, and species-independent manner that requires no transgene integration. I sought to gauge the promise of gold nanoparticles (AuNPs) as plant genetic engineering tools. By systematically tuning key physicochemical properties of the NPs to optimize bio-cargo loading efficiency, I developed the first two AuNP-based methods for delivering small interfering RNA and plasmid DNA to intact leaves for gene silencing and expression, respectively. 
 
@@ -72,7 +82,7 @@ The results sparked fundamental and applied questions involving the use of AuNPs
 This work was performed under the mentorship of [Prof. Markita Landry](https://landrylab.com/) at UC Berkeley within the [Amgen Scholars Program](https://amgenscholars.berkeley.edu/#:~:text=About%20the%20Program,pursuing%20careers%20in%20the%20sciences.).
 
 
-### **II. Tuning size and charge of a multivalent polymer library for enhanced drug delivery to cartilage**
+### **Tuning size and charge of a multivalent polymer library for enhanced drug delivery to cartilage**
 
 Efficient transport of therapeutics through dense biological tissues has proven to be a complex challenge, especially for osteoarthritis (OA), a degenerative joint disease characterized by gradual cartilage degradation affecting ~30 million individuals annually. In this work, I focused on addressing the transport of a potential drug delivery vehicle into cartilage for the treatment of OA. The avascular, densely packed, and negatively charged extracellular matrix of cartilage has been a barrier to the transport and, thus, therapeutic effect of even locally administered drugs. I probed whether the uptake-to-cytotoxicity ratio of a nanocarrier in cartilage can be maximized by systematically tuning its physicochemical properties. Taking advantage of the negatively-charged cartilage, I tuned the size and charge of cationic polymers by grafting their periphery with a library of polyethylene glycol molecules. The results revealed a significant influence of size and charge on uptake capabilities of the polymers and their cytotoxicity in bovine cartilage explants and chondrocytes. Furthermore, these findings will inform key design principles of drug delivery vehicles for the potential treatment of OA patients. 
 
@@ -85,7 +95,7 @@ Efficient transport of therapeutics through dense biological tissues has proven 
 
 This work was performed under the mentorship of [Dr. Brett Geiger](https://scholar.google.com/citations?user=ziQOcJUAAAAJ&hl=en) in Prof. Paula Hammond's [group](https://hammondlab.mit.edu/) at MIT as part of the [NSF Center on EBICS](https://ebics.mit.edu/). 
 
-### **III. Nanomechanical properties of zwitterionic polymer brushes**
+### **Nanomechanical properties of zwitterionic polymer brushes**
 
 
 I began this project because I was intrigued by interfacial phenomena, namely those governing the performance of polymer brush coatings in supporting exogenous donor-free culture of human embryonic stem cells (hESCs). Prior work had indicated that surface rigidity and elasticity influence cell attachment, spreading, proliferation, and differentiation, but no studies had directly investigated the interaction between thickness, wettability, and nanomechanical properties of the surfaces developed by our group. I probed 1) whether simple reaction parameters that govern thickness and wettability can modulate the nanomechanical properties of these synthetic surfaces and 2) whether hESC propagation responded to these variations in architectural regimes.

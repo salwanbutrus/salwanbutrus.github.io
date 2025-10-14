@@ -10,19 +10,20 @@ title: About Me
 
 **Salwan Butrus, Ph.D.**
 
-**Senior Computational Researcher I** @ Curve Biosciences. CompBio, ML Research, Bioinformatics.
+**Senior Computational Researcher** @ Curve Biosciences. CompBio, ML Research, Bioinformatics.
 
 **Ph.D.** UC Berkeley: Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology 
 
-_NIH Ruth L. Kirschstein NRSA Predoctoral Fellow (F31) (2023-Present)_
+_NIH Ruth L. Kirschstein NRSA Predoctoral Fellow (F31)_
 
-_NSF Graduate Research Fellow (2019-2022)_
+_NSF Graduate Research Fellow_
 
 **B.S.E.** University of Michigan-Ann Arbor: Chemical Engineering
 
-[X](https://twitter.com/salwan_butrus)<br>
+[LinkedIn](www.linkedin.com/in/salwan-butrus)<br>
 [Google Scholar](https://scholar.google.com/citations?user=KeJps5YAAAAJ&hl=en)<br>
-[CV](/files/ButrusSalwanCV.pdf)
-<br><br>
+[CV](/files/ButrusSalwanCV.pdf)<br>
+[X](https://twitter.com/salwan_butrus)<br>
+<br>
 Hey there, welcome to my personal website! I received my PhD from UC Berkeley in [Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) and the [Center for Computational Biology](https://ccb.berkeley.edu/). I applied machine learning to high-dimensional genomics datasets to study brain development in Karthik Shekhar's [group](https://www.shekharlab.net/). Currently, I'm a Senior Computational Researcher at Curve Biosciences. At Curve, we adopt a hybrid biology/data-driven approach to develop blood tests that will guide patients with chronic disease on their decades-long journeys. I'm passionate about education, mentorship, interdisciplinary research, and sports. Click around to see what I've been up to at work and beyond.   
 
