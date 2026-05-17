@@ -10,7 +10,7 @@ title: About Me
 
 **Salwan Butrus, Ph.D.**
 
-**Senior Computational Researcher** @ Curve Biosciences. CompBio, ML Research, Bioinformatics.
+**Computational Sciences Lead** @ Curve Biosciences. CompBio and ML Research.
 
 **Ph.D.** UC Berkeley: Chemical and Biomolecular Engineering + Designated Emphasis in Computational Biology 
 
@@ -25,5 +25,9 @@ _NSF Graduate Research Fellow_
 [CV](/files/ButrusSalwanCV.pdf)<br>
 [X](https://twitter.com/salwan_butrus)<br>
 <br>
-Hey there, welcome to my personal website! I received my PhD from UC Berkeley in [Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) and the [Center for Computational Biology](https://ccb.berkeley.edu/). I applied machine learning to high-dimensional genomics datasets to study brain development in Karthik Shekhar's [group](https://www.shekharlab.net/). Currently, I'm a Senior Computational Researcher at Curve Biosciences. At Curve, we adopt a hybrid biology/data-driven approach to develop blood tests that will guide patients with chronic disease on their decades-long journeys. I'm passionate about education, mentorship, interdisciplinary research, and sports. Click around to see what I've been up to at work and beyond.   
 
+Hey there, welcome to my personal website! I lead the Computational Sciences Division at Curve Biosciences. I am responsible for the de novo design and maintenance of our next-generation sequencing (NGS) data engineering and featurization pipelines. In addition, I research, architect, deploy, and maintain our AI platform to deliver molecular insights from a simple blood draw to chronic disease patients.
+
+Previously, I received my PhD from UC Berkeley in [Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) and the [Center for Computational Biology](https://ccb.berkeley.edu/). I applied machine learning to single-cell RNA-seq and ATAC-seq datasets to model neuron development as a function of genetic and environmental perturbations in Karthik Shekhar's [group](https://www.shekharlab.net/). 
+
+I'm passionate about education, mentorship, interdisciplinary research, and sports. Click around to see what I've been up to at work and beyond.
