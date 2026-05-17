@@ -12,7 +12,7 @@ permalink: /research/
 
 **\***=Equal contribution
 * \*Xiao, J.,  **\*Butrus, S.**, Hunkapiller, N. Methylation-Aware Embedding Geometry Emerges from
-Bisulfite Pretraining in DNA Language Models. ICLR (2026). [https://openreview.net/forum?id=C4lGPSE0X7](https://openreview.net/forum?id=C4lGPSE0X7).
+Bisulfite Pretraining in DNA Language Models. _ICLR_ (2026). [https://openreview.net/forum?id=C4lGPSE0X7](https://openreview.net/forum?id=C4lGPSE0X7).
 
 
 
