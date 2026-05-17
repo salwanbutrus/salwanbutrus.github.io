@@ -3,6 +3,19 @@ layout: default
 title: Research
 permalink: /research/
 ---
+
+# **Research at Curve Biosciences**
+
+### **Methylation-Aware Embedding Geometry Emerges from Bisulfite Pretraining in DNA Language Models**
+
+<img src="/images/LMRL_poster_final.png" style="float:center;width:100%;height:auto;">
+
+**\***=Equal contribution
+* \*Xiao, J.,  **\*Butrus, S.**, Hunkapiller, N. Methylation-Aware Embedding Geometry Emerges from
+Bisulfite Pretraining in DNA Language Models. ICLR (2026). [https://openreview.net/forum?id=C4lGPSE0X7](https://openreview.net/forum?id=C4lGPSE0X7).
+
+
+
 # **Graduate Research**
 
 
