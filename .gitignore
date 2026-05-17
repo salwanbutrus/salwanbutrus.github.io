@@ -1,4 +1,20 @@
-.sass-cache
-.jekyll-cache
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+.bundle/
+vendor/
+
+# Ruby
+*.gem
+.ruby-version
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
